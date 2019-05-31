@@ -1,2 +1,0 @@
-# privacyDesc
-for Privacy Desc
